@@ -30,3 +30,11 @@ Traditional voting systems are often vulnerable to tampering, fraud, and central
 - Frontend: HTML, CSS, JavaScript (with Web3.js or Ethers.js)
 - Backend: Node.js
 - Wallet Integration: MetaMask
+  
+## 🚀 Usage
+- Start your local blockchain (Ganache / Hardhat node).
+- Deploy the smart contract.
+- Connect the frontend with MetaMask.
+- Register candidates and voters.
+- Cast votes using the interface.
+- View results in real-time.
