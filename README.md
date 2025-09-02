@@ -14,6 +14,6 @@ Traditional voting systems are often vulnerable to tampering, fraud, and central
 ## ✨ Features
 - ✅ Secure & Transparent: Votes are stored on the blockchain, preventing tampering.
 - ✅ Anonymous Voting: Preserves voter privacy.
-✅ Real-Time Results: Votes can be counted instantly.
-✅ Decentralized: No single point of control.
-✅ Smart Contracts: Automates the voting and counting process.
+- ✅ Real-Time Results: Votes can be counted instantly.
+- ✅ Decentralized: No single point of control.
+- ✅ Smart Contracts: Automates the voting and counting process.
