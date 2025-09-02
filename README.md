@@ -5,9 +5,8 @@ A secure and transparent blockchain-based voting system that ensures fairness, e
 - [About](#About)
 - [Features](#Features)
 - [Tech Stack](#TechStack)
-- [Installation](#Installation)
 - [Usage](#Usage)
-- [Screenshots](#Screenshots)
+- [Video](#Video)
 - [Contact](#Contact)
 ## 🔎 About
 Traditional voting systems are often vulnerable to tampering, fraud, and central authority manipulation. This project provides a tamper-proof, transparent, and verifiable solution using blockchain technology. Each vote is stored as a transaction on the blockchain, ensuring security and immutability.
@@ -38,3 +37,6 @@ Traditional voting systems are often vulnerable to tampering, fraud, and central
 - Register candidates and voters.
 - Cast votes using the interface.
 - View results in real-time.
+
+## 📸 Video
+
