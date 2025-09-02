@@ -4,7 +4,7 @@ A secure and transparent blockchain-based voting system that ensures fairness, e
 ## 📖 Table of Contents
 - [About](#About)
 - [Features](#Features)
-- [Tech Stack](#Tech Stack)
+- [Tech Stack](#TechStack)
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Screenshots](#Screenshots)
