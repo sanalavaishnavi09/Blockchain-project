@@ -39,5 +39,5 @@ Traditional voting systems are often vulnerable to tampering, fraud, and central
 - View results in real-time.
 
 ## 🎥 Project Demo
-https://github.com/sanalavaishnavi09/Blockchain-project/blob/main/execution%20video.mp4
+[https://github.com/sanalavaishnavi09/Blockchain-project/blob/main/execution%20video.mp4](https://github.com/user-attachments/assets/c33663bd-3c1c-44f6-a178-fcb1466c42f0)
 
