@@ -21,3 +21,12 @@ Traditional voting systems are often vulnerable to tampering, fraud, and central
 ✅ Decentralized: No single point of control.
 
 ✅ Smart Contracts: Automates the voting and counting process.
+
+## 🛠 Tech Stack
+
+- Blockchain: Ethereum
+- Smart Contracts: Solidity
+- Development Framework: Truffle / Hardhat
+- Frontend: HTML, CSS, JavaScript (with Web3.js or Ethers.js)
+- Backend: Node.js
+- Wallet Integration: MetaMask
